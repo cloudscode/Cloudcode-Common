@@ -1,0 +1,56 @@
+a {
+	color: #4E832F;
+	text-decoration: none;
+}
+
+/* a:hover {
+	text-decoration: underline;
+} */
+
+a img {
+	border: none;
+}
+
+h1 {
+	font-size: 36px;
+	text-align: center;
+}
+/*多选控件样式*/
+.labelText {
+	margin: 0 0 5px 0px;
+	font-size: 14px;
+	font-weight: bold;
+	width: 80px;
+	display: -moz-inline-box;
+	display: inline-block;
+}
+
+
+.minlabelText {
+	margin: 0 0 5px 0px;
+	font-size: 14px;
+	font-weight: bold;
+	width: 80px;
+	display: -moz-inline-box;
+	display: inline-block;
+}
+
+.maxlabelText {
+	margin: 0 0 5px 0px;
+	font-size: 14px;
+	font-weight: bold;
+	display: -moz-inline-box;
+	display: inline-block;
+}
+
+/* shared styles for the ActionColumn icons */
+.x-action-col-cell img {
+	height: 16px;
+	width: 16px;
+	cursor: pointer;
+}
+
+
+.noborderinput {
+	background:#E6E6E6; border-right: 0px solid;border-top: 0px solid;border-left: 0px solid;border-bottom: #000000 1px solid;
+}

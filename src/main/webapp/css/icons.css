@@ -1,0 +1,136 @@
+ /*========列表删除=======*/
+.delete {
+    background-image:url(../images/extjsico/delete2.gif) !important;
+}
+ /*========删除=======*/
+.delete2 {
+    background-image:url(../images/icons/delete.png) !important;
+}
+ /*========保存=======*/
+.save_ {
+    background-image:url(../images/extjsico/save.gif) !important;
+}
+ /*========添加=======*/
+.add {
+    background-image:url(../images/icons/arrow/add.png) !important;
+}
+ /*========列表编辑=======*/
+.update {
+    background-image:url(../images/extjsico/edit.gif) !important;
+}
+ /*========表单确定=======*/
+.yes {
+    background-image:url(../images/icons/arrow/accept.png) !important;
+}
+ /*========表单取消=======*/
+.cancel {
+    background-image:url(../images/icons/arrow/arrow_undo.png) !important;
+}
+ /*========列表查询=======*/
+.search {
+    background-image:url(../images/extjsico/zoom_16x16.gif) !important;
+}
+ /*========列表的刷新图片=======*/
+.refresh {
+    background-image:url(../images/icons/arrow/arrow_refresh.png) !important;
+}
+ /*========树panel的刷新图片=======*/
+.table_refresh {
+    background-image:url(../images/extjsico/table_refresh.png) !important;
+}
+ /*========重新登录=======*/
+.again_login {
+    background-image:url(../images/extjsico/access_16x16.gif) !important;
+}
+ /*========等待=======*/
+.loading {
+    background-image:url(../images/loading/loading.gif) !important;
+}
+
+ /*========平铺=======*/
+.tile {
+    background-image:url(../images/extjsico/application_16x16.gif) !important;
+}
+
+ /*========层叠=======*/
+.stack-up {
+    background-image:url(../images/extjsico/backward.gif) !important;
+}
+
+ /*========快捷方式=======*/
+.kjfs{
+    background-image:url(../images/myimage/kjfs.jpg) !important;
+}
+ /*========新建=======*/
+.xj{
+    background-image:url(../images/icons/table/table_add.png) !important;
+}
+ /*========桌面图片=======*/
+.hh_zmbj{
+    background-image:url(../images/extjsico/image_16x16.gif) !important;
+}
+ /*========主题=======*/
+.hh_zt{
+    background-image:url(../images/extjsico/color2_16x16.gif) !important;
+}
+ /*========树节点展开=======*/
+.expand{
+    background-image:url(../images/icons/application/application_side_expand.png) !important;
+}
+.collapse{
+    background-image:url(../images/icons/application/application_side_contract.png) !important;
+}
+ /*========打印=======*/
+.print{
+    background-image:url(../images/icons/printer/printer.png) !important;
+}
+ /*========excel=======*/
+.excel{
+    background-image:url(../images/icons/page/page_excel.png) !important;
+}
+ /*========word=======*/
+.word{
+    background-image:url(../images/icons/page/page_word.png) !important;
+}
+ /*========眼睛=======*/
+.view{
+    background-image:url(../images/extjsico/view_16x16.gif) !important;
+}
+ /*========恢复=======*/
+.huifu{
+    background-image:url(../images/icons/layers.png) !important;
+}
+ /*========最大=======*/
+.max{
+    background-image:url(../images/icons/shape_handles.png) !important;
+}
+ /*========最小=======*/
+.min{
+    background-image:url(../images/icons/shape_group.png) !important;
+}
+ /*========集团=======*/
+.group{
+    background-image:url(../images/myimage/org/group.png) !important;
+}
+ /*========机构=======*/
+.org{
+    background-image:url(../images/myimage/org/org.png) !important;
+}
+ /*========部门=======*/
+.dept{
+    background-image:url(../images/myimage/org/dept.png) !important;
+}
+ /*========岗位=======*/
+.job{
+    background-image:url(../images/myimage/org/job.png) !important;
+}
+.up{
+    background-image:url(../images/extjsico/arrow-up.gif) !important;
+}
+.down{
+    background-image:url(../images/extjsico/arrow-down.gif) !important;
+}
+
+.user {
+    background-image:url( ../images/myimage/user.gif) !important;
+}
